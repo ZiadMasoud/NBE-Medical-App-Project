@@ -65,7 +65,7 @@
 <ol>
     <li>Clone the repository: <code>git clone https://github.com/ZiadMasoud/NBE-Project-002.git</code></li>
     <li>Open the project in Visual Studio.</li>
-    <li>Make sure SQL Server is installed and set up the database using the scripts in the <code>Database</code> folder.</li>
+    <li>Make sure SQL Server is installed and set up the database using the scripts in the <code>Database</code> file .</li>
     <li>Run the project in Visual Studio.</li>
 </ol>
 
