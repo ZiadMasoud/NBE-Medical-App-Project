@@ -22,7 +22,7 @@
 <p>The project followed a well-defined life cycle, ensuring that every aspect of the development was thoroughly planned and executed. Below is a summary of the key phases:</p>
 
 <ol>
-    <li><b>Project Definition:</b> The goal was to create a healthcare system for managing employee medical coverage. We identified six main stakeholders: employees, HR, finance, medical fields, doctors, and mediators.</li>
+    <li><b>Project Definition:</b> The goal was to create a healthcare system for managing employee medical coverage. We identified six main stakeholders: employees, HR, finance, medical fields, doctors, and middle man</li>
     <li><b>Requirements Gathering:</b> We conducted interviews and use case discussions with stakeholders to determine the necessary features, including dashboards, account management, and task assignments for each stakeholder.</li>
     <li><b>Design:</b> The team created detailed storyboards, use cases, and data models, defining the interactions between different stakeholders.</li>
     <li><b>Development:</b> The frontend was developed using ASP.NET with C#, and the backend was integrated with SQL Server for data storage. LINQ was used for querying the database.</li>
@@ -65,7 +65,6 @@
 <ol>
     <li>Clone the repository: <code>git clone https://github.com/ZiadMasoud/NBE-Project-002.git</code></li>
     <li>Open the project in Visual Studio.</li>
-    <li>Restore the NuGet packages and build the solution.</li>
     <li>Make sure SQL Server is installed and set up the database using the scripts in the <code>Database</code> folder.</li>
     <li>Run the project in Visual Studio.</li>
 </ol>
