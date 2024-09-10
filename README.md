@@ -26,8 +26,6 @@
     <li><b>Requirements Gathering:</b> We conducted interviews and use case discussions with stakeholders to determine the necessary features, including dashboards, account management, and task assignments for each stakeholder.</li>
     <li><b>Design:</b> The team created detailed storyboards, use cases, and data models, defining the interactions between different stakeholders.</li>
     <li><b>Development:</b> The frontend was developed using ASP.NET with C#, and the backend was integrated with SQL Server for data storage. LINQ was used for querying the database.</li>
-    <li><b>Testing & Debugging:</b> Each feature was tested for proper functionality, including form validation, error handling, and security features.</li>
-    <li><b>Deployment:</b> The system was deployed within a controlled environment for internal NBE testing and review.</li>
 </ol>
 
 <h2 id="team">Team</h2>
