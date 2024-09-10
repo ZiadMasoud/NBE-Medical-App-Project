@@ -15,7 +15,7 @@
 
 <h2 id="project-overview">Project Overview</h2>
 
-<p>This project aims to build a medical healthcare coverage system that allows NBE employees to access healthcare services with ease. The system features a dashboard for each stakeholder where they can manage tasks such as profile management, account management, and more. The system is designed with multiple functionalities including form validation, Toastify notifications, and dynamic stakeholder interaction.</p>
+<p>This project aims to build a medical healthcare coverage system that allows NBE employees to access healthcare services with ease. The system features a dashboard for each stakeholder where they can manage tasks such as profile management, account management, and task assignments. The system is designed with multiple functionalities including form validation, Toastify notifications, and dynamic stakeholder interaction.</p>
 
 <h2 id="project-life-cycle">Project Life Cycle</h2>
 
@@ -34,16 +34,11 @@
 
 <h3>Supervisors & Leaders</h3>
 <ul>
-    <li><b>Supervisor:</b> Mohamed Ali</li>
-    <li><b>Team Leader:</b> Mahmoud Fathy</li>
-</ul>
-
-<h3>Project Team</h3>
-<ul>
-    <li><b>Mahmoud Fathy</b> – Team Leader</li>
-    <li><b>Mohamed Fawzy</b> – Employee</li>
-    <li><b>Amr Badawy</b> – Employee</li>
-    <li><b>Ahmed Mahmoud Khalil</b> – Employee</li>
+    <li><b>Team Leader:</b> Mohamed Ali</li>
+    <li><b>Amr Badawy</b></li>
+    <li><b>Mahmoud Fathy</b></li>
+    <li><b>Mohamed Fawzy</b></li>
+    <li><b>Ahmed Mahmoud Khalil</b></li>
 </ul>
 
 <h3>Development Team</h3>
@@ -60,7 +55,6 @@
     <li>ASP.NET with C#</li>
     <li>SQL Server</li>
     <li>LINQ for querying</li>
-    <li>Toastify for notifications</li>
     <li>HTML, CSS, JavaScript for frontend design</li>
 </ul>
 
